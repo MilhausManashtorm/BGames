@@ -1,0 +1,108 @@
+* {
+    box-sizing: border-box;
+  }
+
+.first-player{
+margin-bottom: 300px;
+margin-left: 240px;
+}
+.second-player{
+  margin-left: 240px;
+}
+
+.attack-container{
+  display: inline-block;
+  margin: 3px;
+  width: 100px;
+}
+.attack{
+  
+  margin: 3px;
+  width: 100px;
+}
+
+
+.defuse-container{
+  display: inline-block;
+  margin: 3px;
+  width: 100px;
+}
+.defuse{
+
+  margin: 3px;
+  width: 100px;
+}
+
+
+.explosion-container{
+  display: inline-block;
+  margin: 3px;
+  width: 100px;
+}
+.explosion{
+
+  margin: 3px;
+  width: 100px;
+}
+
+
+.favor-container{
+  display: inline-block;
+  margin: 3px;
+  width: 100px;
+}
+.favor{
+
+  margin: 3px;
+  width: 100px;
+}
+
+
+.future-container{
+  display: inline-block;
+  margin: 3px;
+  width: 100px;
+}
+.future{
+  
+  margin: 3px;
+  width: 100px;
+}
+
+
+.no-container{
+  display: inline-block;
+  margin: 3px;
+  width: 100px;
+}
+.no{
+  
+  margin: 3px;
+  width: 100px;
+}
+
+
+.shufle-container{
+  display: inline-block;
+  margin: 3px;
+  width: 100px;
+}
+.shufle{
+  
+  margin: 3px;
+  width: 100px;
+}
+
+
+
+.skip-container{
+  display: inline-block;
+  margin: 3px;
+  width: 100px;
+}
+.skip{
+
+  margin: 3px;
+  width: 100px;
+}
+
